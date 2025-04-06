@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @onlinetyping
-- 👀 I’m interested in javascript and PHP language
-- 🌱 I’m currently learning game development
-- 📫 Reach me on https://onlinetyping.org/contact.php
+# Typing Racing Game
+
+The Typing Racing Game is a HTML5 + JS game where players compete against three virtual opponents in a car race by typing highlighted words accurately and quickly. The faster and more accurately you type the highlighted words, the quicker your car advances. This game aims to enhance typing speed and accuracy, making it particularly beneficial for children learning to type.
+
+## Play
+- Play this game https://onlinetyping.org/typing-games/typing-racing-game/
 
 <!---
 onlinetyping/onlinetyping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
